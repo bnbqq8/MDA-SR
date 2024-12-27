@@ -41,3 +41,6 @@ CUDA_VISIBLE_DEVICE=0 python predict.py --test_mode sr_patch --name scale_4x --s
 ```
 CUDA_VISIBLE_DEVICE=0 python predict.py --test_mode down --name down_x4 --scale 4 --resume_down ./experiment/ckpt/scale_4x/model_down_0110.pth --patch_size_down 512 --test_range 1-2000 --gpu cuda:6
 ```
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](./LICENSE) file for details.
