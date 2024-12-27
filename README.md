@@ -1,5 +1,5 @@
 # MDA-SR
-This repository is an official PyTorch implementation of the paper **"MDA-SR: Multi-level Domain Adaptation Super-Resolution for Wireless Capsule Endoscopy Images"**
+This repository is an official PyTorch implementation of the MICCAI2023 paper **"MDA-SR: Multi-level Domain Adaptation Super-Resolution for Wireless Capsule Endoscopy Images"**
 
 ## 🔥: Dependencies
 * Python 3.7
